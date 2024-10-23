@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kaik</h1>
 <h3 align="center">A FullStack developer</h3>
 
-- 🌱 I’m currently learning **Nestjs, ASP.NET, typeorm, React and Tailwindcss**
+- 🌱 I’m currently learning Flutter and Machine Learning
 
 - 💬 Ask me about **HTML, CSS, JS/TS, JAVA, C, LUA**
 
